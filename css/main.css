@@ -1,0 +1,14 @@
+* {
+    margin:0;
+    padding:0;
+   
+}
+
+.background-img {
+    height: 100%;
+    position: relative;
+    color: blue;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 2em;
+}
+
